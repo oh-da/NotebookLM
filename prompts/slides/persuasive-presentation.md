@@ -1,4 +1,4 @@
-# PROMPT 1 — PERSUASIVE PRESENTATION (Decision / Approval)
+# PERSUASIVE PRESENTATION (Decision / Approval)
 
 ## MASTER PROMPT
 
