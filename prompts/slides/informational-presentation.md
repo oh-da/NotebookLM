@@ -1,4 +1,4 @@
-# PROMPT 2 — INFORMATIONAL PRESENTATION (Analysis / Understanding)
+# INFORMATIONAL PRESENTATION (Analysis / Understanding)
 
 ## MASTER PROMPT
 
